@@ -37,7 +37,6 @@
         }
     ],
     "cpu": "1024",
-    "enableFaultInjection": false,
     "executionRoleArn": "arn:aws:iam::894026808621:role/ecsTaskExecutionRole",
     "family": "my-flask-app",
     "memory": "3072",
